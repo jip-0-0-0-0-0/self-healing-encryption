@@ -1,0 +1,9 @@
+{
+    "key_store_path": "data/keystore.json",
+    "log_path": "data/logs/encryption.log",
+    "monitoring_interval_seconds": 60,
+    "key_rotation_interval_days": 30,
+    "encryption_algorithm": "custom_xor",
+    "backup_key_count": 3,
+    "max_key_versions": 5
+}
